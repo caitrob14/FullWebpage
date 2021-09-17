@@ -115,7 +115,7 @@ head a:hover {
 /* newsletter */
 
 #newsletter {
-    background color: #2d2b3e;
+    background-color: #2d2b3e;
     padding: 15px;
 }
 
@@ -175,7 +175,7 @@ head a:hover {
 }
 
 #about .main-col {
-    color: #fff
+    color: #fff;
 }
 
 #about .sidebar {
